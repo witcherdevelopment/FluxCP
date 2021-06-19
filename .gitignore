@@ -25,3 +25,7 @@
 !/themes/default
 !/themes/bootstrap
 !/themes/installer
+
+# Custom
+/config/applications.php
+/config/servers.php
