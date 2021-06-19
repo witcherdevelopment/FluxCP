@@ -27,5 +27,4 @@
 !/themes/installer
 
 # Custom
-/config/applications.php
-/config/servers.php
+/config/*.php
