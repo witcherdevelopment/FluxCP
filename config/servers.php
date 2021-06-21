@@ -45,14 +45,14 @@ return array(
 		'LoginServer'    => array(
 			'Address'  => '127.0.0.1',
 			'Port'     => 6900,
-			'UseMD5'   => false,
+			'UseMD5'   => true,
 			'NoCase'   => true, // rA account case-sensitivity; Default: Case-INsensitive (true).
 			'GroupID'  => 0,    // Default account group ID during registration.
 			//'Database' => 'ragnarok'
 		),
 		'CharMapServers' => array(
 			array(
-				'ServerName'      => 'FluxRO',
+				'ServerName'      => 'WitcherWorldMidgard',
 				'Renewal'         => true,
 				'MaxCharSlots'    => 9,
 				'DateTimezone'    => 'Asia/Kuala_Lumpur', // Specifies game server's timezone for this char/map pair. (See: http://php.net/timezones)
